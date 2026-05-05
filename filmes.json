@@ -1,44 +1,44 @@
 [
   {
-    "id": 123,
-    "nome": "Vingadores Ultimato",
-    "sinopse": "Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.",
-    "foto": "https://www.otempo.com.br/adobe/dynamicmedia/deliver/dm-aid--37564cd8-d023-43d7-a83a-f0911e0c8998/tecnologia-e-games-geek-games-cultura-edicase-entretenimento-filmes-1708270660.jpg?quality=90&width=1200&preferwebp=true"
+    "id": 1,
+    "nome": "Ameaça Pré-Histórica",
+    "sinopse": "Após um acidente catastrófico em um planeta desconhecido, o piloto Mills descobre que, na verdade, está preso na Terra 65 milhões de anos atrás. Agora, com apenas uma chance de resgate, Mills e a única outra sobrevivente, Koa, enfrentam criaturas.",
+    "foto": "https://br.web.img3.acsta.net/r_1920_1080/pictures/23/02/24/09/10/2162898.jpg"
   },
   {
-    "id": 546,
-    "nome": "Shazam!",
-    "sinopse": "Billy Batson (Asher Angel) tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar num super-herói adulto chamado Shazam (Zachary Levi). Ao gritar a palavra SHAZAM!, o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana (Mark Strong).",
-    "foto": "https://sujeitoprogramador.com/r-api/img/filme1.png"
+    "id": 2,
+    "nome": "Sizu",
+    "sinopse": "Quando um ex-soldado que descobre ouro no deserto da Lapônia tenta levar o saque para a cidade, soldados nazistas liderados por um brutal oficial da SS lutam contra ele.",
+    "foto": "https://br.web.img3.acsta.net/r_1920_1080/pictures/23/03/20/10/48/4070461.jpg"
   },
   {
-    "id": 125,
-    "nome": "O Primeiro Homem",
-    "sinopse": "A vida do astronauta norte-americano Neil Armstrong (Ryan Gosling) e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrifícios e custos de Neil e toda uma nação durante uma das mais perigosas missões na história das viagens espaciais.",
-    "foto": "https://sujeitoprogramador.com/r-api/img/filme3.png"
+    "id": 3,
+    "nome": "Rebel Moon",
+    "sinopse": "Em Rebel Moon: Parte 1 - Corte do Diretor, Zack Snyder expande sua épica saga de ficção científica, contando a mesma história que foi vista em Rebel Moon - Capítulo Um: Cálice de Sangue e Rebel Moon - Capítulo Dois: Maldição do Perdão. O Corte do Diretor revela a jornada de guerreiros determinados a proteger uma lua crucial. Futuras versões de Rebel Moon prometem a mesma história cativante dos filmes originais, agora enriquecida com novos detalhes e cenas inéditas. No centro da trama, Kora (Sofia Boutella) lidera uma missão desesperada para unir planetas vizinhos e derrubar o regente autoritário Balisarius (Fra Fee). Esta é uma batalha épica entre o bem e o mal, onde as apostas são altas e o destino de toda uma galáxia está em jogo. Prepare-se para uma narrativa intensa de intrigas intergalácticas e heroísmo determinado.",
+    "foto": "https://br.web.img3.acsta.net/r_1920_1080/img/cf/24/cf2489e1a74d005036bc1d2f6cd1ff5d.jpg"
   },
   {
-    "id": 400,
-    "nome": "Mission: Impossible – Fallout",
-    "sinopse": "Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa.",
-    "foto": "https://sujeitoprogramador.com/r-api/img/filme4.png"
+    "id": 4,
+    "nome": "Avatar",
+    "sinopse": "Jake Sully (Sam Worthington) ficou paraplégico após um combate na Terra. Ele é selecionado para participar do programa Avatar em substituição ao seu irmão gêmeo, falecido. Jake viaja a Pandora, uma lua extraterrestre, onde encontra diversas e estranhas formas de vida. O local é também o lar dos Na'Vi, seres humanóides que, apesar de primitivos, possuem maior capacidade física que os humanos. Os Na'Vi têm três metros de altura, pele azulada e vivem em paz com a natureza de Pandora. Os humanos desejam explorar a lua, de forma a encontrar metais valiosos, o que faz com que os Na'Vi aperfeiçoem suas habilidades guerreiras. Como são incapazes de respirar o ar de Pandora, os humanos criam seres híbridos chamados de Avatar. Eles são controlados por seres humanos, através de uma tecnologia que permite que seus pensamentos sejam aplicados no corpo do Avatar. Desta forma Jake pode novamente voltar à ativa, com seu Avatar percorrendo as florestas de Pandora e liderando soldados. Até conhecer Neytiri (Zoe Saldana), uma feroz Na'Vi que conhece acidentalmente e que serve de tutora para sua ambientação na civilização alienígena.",
+    "foto": "https://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/64/43/65/19179095.jpg"
   },
   {
-    "id": 554,
-    "nome": "The Meg",
-    "sinopse": "Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. ",
-    "foto": "https://sujeitoprogramador.com/r-api/img/filme5.png"
+    "id": 5,
+    "nome": "Duna, parte 2",
+    "sinopse": "Em Duna: Parte 2, Paul Atreides (Timothée Chalamet) se une a Chani (Zendaya) e aos Fremen enquanto busca vingança contra os conspiradores que destruíram sua família. Uma jornada espiritual, mística e marcial se inicia. Para se tornar Muad'Dib, enquanto tenta prevenir o futuro horrível, mas inevitável que ele testemunhou, Paul Atreides vê uma Guerra Santa em seu nome, espalhando-se por todo o universo conhecido. Enfrentando uma escolha entre o amor de sua vida e o destino do universo, Paul deve evitar um futuro terrível que só ele pode prever. Se tudo sair como planejado, ele poderá guiar a humanidade para um futuro promissor.",
+    "foto": "https://br.web.img3.acsta.net/r_1920_1080/pictures/23/12/14/11/10/3847678.jpg"
   },
   {
-    "id": 987,
+    "id": 6,
     "nome": "Venom",
     "sinopse": "San Francisco, Estados Unidos. Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. ",
-    "foto": "https://sujeitoprogramador.com/r-api/img/filme6.png"
+    "foto": "https://br.web.img3.acsta.net/r_1920_1080/img/d4/d4/d4d488ce849ab08b09472c39ceb86b6c.jpg"
   },
   {
-    "id": 700,
-    "nome": "Pacific Rim: A Revolta",
-    "sinopse": "Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados.",
-    "foto": "https://sujeitoprogramador.com/r-api/img/filme7.png"
+    "id": 7,
+    "nome": "Círculo de Fogo",
+    "sinopse": "Quando várias criaturas monstruosas, conhecidas como Kaiju, começam a emergir do mar, tem início uma batalha entre estes seres e os humanos. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers, cada um controlado por duas pessoas através de uma conexão neural. Entretanto, mesmo os Jaegers se mostram insuficientes para derrotar os Kaiju. Diante deste cenário, a última esperança é um velho robô, obsoleto, que passa a ser comandado por um antigo piloto (Charlie Hunnam) e uma treinadora (Rinko Kikuchi).",
+    "foto": "https://br.web.img3.acsta.net/r_1920_1080/pictures/210/237/21023766_20130731192712937.jpg"
   }
 ]
